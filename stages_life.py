@@ -22,7 +22,7 @@
 
 
 messages = [
-    "the person is a baby",
+    "the person is a booby",
     "the person is a toddler",
     "the person is a kid",
     "the person is a teenager",
